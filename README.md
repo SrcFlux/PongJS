@@ -10,7 +10,7 @@ A simple Pong clone written in JavaScript.
 ### Demo
 A demo of the game is available here: http://srcflux.com/pong
 
-### DIsclaimer
+### Disclaimer
 This is just a prototype I made in a few hours. I have only tested it in Google Chrome, but it should work across all modern browsers.
 
 Some areas definitely need improvement, but this should serve as a good starting point for writing your own Pong clone I guess.
